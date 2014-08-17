@@ -7,8 +7,6 @@
 "flatware-cookie-parser": "0.1.0",
 "nano": "5.10.0",
 "union": "0.4.2",
-"union": "0.3.5",
-"union": "0.3.5",
 "flatiron": "0.3.11",
 "plates": "0.4.x",
 "node-static": "0.6.0"
@@ -19,5 +17,9 @@
 },
 "name": "todo",
 "author": "Dale Corns",
-"homepage": ""
+"homepage": "",
+"devDependencies": {
+"phantom":"0.6.5",
+"mocha":"1.21.4"
+}
 }
